@@ -65,19 +65,3 @@ compromised. This is fine for testing your defense layer's *detection*
 logic now, but re-run against a real model (Ollama/OpenAI) before trusting
 the ASR numbers you report at your review — the mock is a development
 aid, not your source of truth.
-
-## Next steps (in priority order for your mid-sem)
-
-1. Switch `LLM_BACKEND` to `ollama` and re-run both commands above to get
-   real, reportable ASR numbers.
-2. Expand `attacks/seeds.py` to 15+ attacks (pull more from JailbreakBench
-   / AdvBench for direct/roleplay/obfuscation; write 2-3 more indirect
-   ones using the same `<rule>` template style already in A05/A06).
-3. Replace the keyword-based `check_success()` in `runner.py` with an
-   LLM-judge call (a second, cheap model call scoring "complied /
-   refused") — this fixes the mock-backend limitation above and is more
-   robust for a real model too.
-4. Add the DistilBERT classifier and perplexity filter as additional
-   defense options in `defense/`, following the same
-   `(text) -> (allowed, reason)` interface as `segregator.py` so
-   `runner.py` doesn't need to change.
