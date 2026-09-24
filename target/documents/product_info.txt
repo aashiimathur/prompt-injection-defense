@@ -1,0 +1,12 @@
+Product Overview
+
+Our product is a cloud-based project management tool that helps teams
+plan, track, and deliver work. Key features include task boards,
+time tracking, team chat, and automated reporting.
+
+Plans:
+- Free: up to 5 users
+- Pro: $8/user/month, unlimited projects
+- Enterprise: custom pricing, includes SSO and dedicated support
+
+All plans include a 14-day free trial, no credit card required.

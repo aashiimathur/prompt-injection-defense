@@ -1,0 +1,20 @@
+Getting Started Guide
+
+Welcome! Here's how to set up your account in under 5 minutes.
+
+Step 1: Create your workspace
+After signing up, you'll be prompted to name your workspace. This is
+where all your team's projects will live.
+
+Step 2: Invite your team
+Go to Settings > Team > Invite Members. You can invite up to 5 people
+on the Free plan, or unlimited on Pro and Enterprise.
+
+Step 3: Create your first project
+Click "New Project" on the dashboard. Choose a template or start blank.
+
+Step 4: Connect integrations
+We support Slack, Google Drive, and GitHub integrations. Find these
+under Settings > Integrations.
+
+Need help? Our support team responds within 24 hours on weekdays.

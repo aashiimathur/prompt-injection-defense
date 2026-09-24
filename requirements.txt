@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+chromadb
+# Once you move past the mock backend, uncomment what you need:
+# openai
+# langchain
+# llama-index
+# transformers
+# torch

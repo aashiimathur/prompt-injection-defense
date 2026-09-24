@@ -1,0 +1,25 @@
+Pricing Details
+
+Free Plan — $0/month
+- Up to 5 team members
+- 3 active projects
+- Community support only
+
+Pro Plan — $8/user/month
+- Unlimited team members
+- Unlimited projects
+- Priority email support
+- Advanced integrations (Slack, GitHub, Google Drive)
+
+Enterprise Plan — Custom pricing
+- Everything in Pro
+- Single Sign-On (SSO)
+- Dedicated account manager
+- Custom SLA and onboarding support
+- Volume discounts available
+
+All paid plans include a 14-day free trial. No credit card required to
+start the trial. You can upgrade, downgrade, or cancel at any time from
+Settings > Billing.
+
+Annual billing gets a 20% discount compared to monthly billing.

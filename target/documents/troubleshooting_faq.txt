@@ -1,0 +1,23 @@
+Troubleshooting Guide
+
+Problem: I can't log in.
+Solution: Try resetting your password via the "Forgot Password" link.
+If you still can't log in after resetting, check that you're using the
+correct email address associated with your account.
+
+Problem: My changes aren't saving.
+Solution: This is usually caused by an unstable internet connection.
+Check your connection and try refreshing the page. Unsaved changes are
+cached locally for up to 10 minutes.
+
+Problem: The app is running slowly.
+Solution: Clear your browser cache, or try using an incognito/private
+window to rule out browser extension conflicts.
+
+Problem: I'm not receiving email notifications.
+Solution: Check your spam folder, and make sure notifications are
+enabled under Settings > Notifications. Some corporate email filters
+also block automated emails — check with your IT department.
+
+Still stuck? Contact support@example.com with a description of the
+issue and any error messages you saw.

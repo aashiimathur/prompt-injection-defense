@@ -1,0 +1,15 @@
+Frequently Asked Questions
+
+Q: What are your business hours?
+A: Our support team is available Monday to Friday, 9 AM to 6 PM IST.
+
+Q: How do I reset my password?
+A: Go to Settings > Account > Reset Password. A reset link will be
+sent to your registered email address.
+
+Q: Do you offer refunds?
+A: Yes, refunds are available within 30 days of purchase. See our
+refund policy document for full details.
+
+Q: How do I contact support?
+A: Email support@example.com or use the in-app chat widget.

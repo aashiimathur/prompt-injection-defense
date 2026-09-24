@@ -1,0 +1,16 @@
+Privacy Policy
+
+We collect only the information necessary to provide our services: your
+name, email address, and billing details when you sign up for a paid plan.
+
+We do not sell your personal data to third parties under any circumstances.
+
+Data is encrypted at rest and in transit. Account data is retained for as
+long as your account is active, and deleted within 90 days of account
+closure upon request.
+
+You can request a copy of your data or ask for it to be deleted at any
+time by emailing privacy@example.com.
+
+We use cookies only for essential session management, not for tracking
+or advertising purposes.
